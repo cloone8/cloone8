@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is the home of my many half-finished projects. Take a look!
+
 <!--
 **cloone8/cloone8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
